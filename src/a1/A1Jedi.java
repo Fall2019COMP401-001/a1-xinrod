@@ -139,7 +139,7 @@ public class A1Jedi {
 			}
 			else
 			{
-			System.out.println("no customers bought " + items[a].getItemName());
+			System.out.println("No customers bought " + items[a].getItemName());
 			}
 		} //goes through item array and outputs information
 		
